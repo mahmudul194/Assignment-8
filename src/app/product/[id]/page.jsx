@@ -10,11 +10,11 @@ export default async function ProductDetails({ params }) {
     headers: await headers()
   });
 
-  if (!session) {
-    redirect("/login");
-  }
-
   const { id } = await params;
+
+  if (!session) {
+    redirect(`/login?redirect=/product/${id}`);
+  }
   const product = products.find((p) => p.id === parseInt(id));
 
   if (!product) {

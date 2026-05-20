@@ -1,6 +1,6 @@
 # SunCart – Summer Essentials Store
 
-**Live URL**: [https://suncart-demo.vercel.app](https://suncart-demo.vercel.app) *(Placeholder)*
+**Live URL**: [https://assignment-8suncart.vercel.app](https://assignment-8suncart.vercel.app)
 
 ## Purpose
 SunCart is a modern, responsive summer eCommerce platform built as an assignment demonstration. Users can explore summer products, view detailed information, and manage their profile securely after authentication.
