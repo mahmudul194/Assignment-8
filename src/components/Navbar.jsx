@@ -27,7 +27,7 @@ export default function Navbar() {
             </div>
             <ul tabIndex={0} className="menu menu-sm dropdown-content mt-4 z-[1] p-4 shadow-2xl bg-white border border-slate-100 rounded-3xl w-60 gap-2 text-lg font-medium text-slate-700">
               <li><Link href="/" className="hover:bg-slate-50 py-3 rounded-xl">Home</Link></li>
-              <li><Link href="/products" className="hover:bg-slate-50 py-3 rounded-xl">Shop Collection</Link></li>
+              <li><Link href="/products" className="hover:bg-slate-50 py-3 rounded-xl">Products</Link></li>
               {session && <li><Link href="/profile" className="hover:bg-slate-50 py-3 rounded-xl">My Profile</Link></li>}
             </ul>
           </div>
@@ -40,7 +40,7 @@ export default function Navbar() {
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1 gap-8 text-slate-600 font-bold text-base">
             <li><Link href="/" className="hover:text-orange-500 transition-colors bg-transparent px-0">Home</Link></li>
-            <li><Link href="/products" className="hover:text-orange-500 transition-colors bg-transparent px-0">Shop</Link></li>
+            <li><Link href="/products" className="hover:text-orange-500 transition-colors bg-transparent px-0">Products</Link></li>
             {session && <li><Link href="/profile" className="hover:text-orange-500 transition-colors bg-transparent px-0">My Profile</Link></li>}
           </ul>
         </div>
@@ -61,7 +61,7 @@ export default function Navbar() {
                   <p className="text-xs text-slate-500 truncate mt-1">{session.user.email}</p>
                 </div>
                 <li>
-                  <Link href="/profile" className="rounded-xl py-3 font-bold text-slate-700 hover:bg-slate-50">Profile Dashboard</Link>
+                  <Link href="/profile" className="rounded-xl py-3 font-bold text-slate-700 hover:bg-slate-50">My Profile</Link>
                 </li>
                 <li>
                   <button onClick={handleLogout} className="text-red-500 rounded-xl py-3 font-bold hover:bg-red-50"><LogOut size={18}/> Logout</button>
@@ -71,7 +71,7 @@ export default function Navbar() {
           ) : (
             <div className="flex gap-3">
               <Link href="/login" className="btn btn-ghost rounded-full font-bold px-6 hover:bg-slate-100 text-slate-700">Login</Link>
-              <Link href="/register" className="btn bg-orange-500 hover:bg-orange-600 text-white border-none rounded-full font-bold px-6 shadow-lg shadow-orange-500/30 hidden sm:flex">Join Now</Link>
+              <Link href="/register" className="btn bg-orange-500 hover:bg-orange-600 text-white border-none rounded-full font-bold px-6 shadow-lg shadow-orange-500/30">Register</Link>
             </div>
           )}
         </div>
