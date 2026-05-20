@@ -28,7 +28,6 @@ export default function Navbar() {
             <ul tabIndex={0} className="menu menu-sm dropdown-content mt-4 z-[1] p-4 shadow-2xl bg-white border border-slate-100 rounded-3xl w-60 gap-2 text-lg font-medium text-slate-700">
               <li><Link href="/" className="hover:bg-slate-50 py-3 rounded-xl">Home</Link></li>
               <li><Link href="/products" className="hover:bg-slate-50 py-3 rounded-xl">Products</Link></li>
-              {session && <li><Link href="/profile" className="hover:bg-slate-50 py-3 rounded-xl">My Profile</Link></li>}
             </ul>
           </div>
           <Link href="/" className="btn btn-ghost text-3xl font-black text-slate-900 tracking-tighter hover:bg-transparent flex gap-2 items-center px-0">
@@ -41,7 +40,6 @@ export default function Navbar() {
           <ul className="menu menu-horizontal px-1 gap-8 text-slate-600 font-bold text-base">
             <li><Link href="/" className="hover:text-orange-500 transition-colors bg-transparent px-0">Home</Link></li>
             <li><Link href="/products" className="hover:text-orange-500 transition-colors bg-transparent px-0">Products</Link></li>
-            {session && <li><Link href="/profile" className="hover:text-orange-500 transition-colors bg-transparent px-0">My Profile</Link></li>}
           </ul>
         </div>
         
