@@ -7,7 +7,7 @@
     "rating": 4.7,
     "stock": 10,
     "description": "Stylish UV protection sunglasses perfect for summer outings. Polarized lenses to protect your eyes from harsh sunlight.",
-    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&q=80&w=600",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&q=80&w=600",
     "category": "Accessories"
   },
   {
@@ -18,7 +18,7 @@
     "rating": 4.9,
     "stock": 25,
     "description": "Lightweight, non-greasy sunscreen with soothing aloe vera. Provides broad-spectrum SPF 50 protection.",
-    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&q=80&w=600",
+    "image": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?auto=format&fit=crop&q=80&w=600",
     "category": "Skincare"
   },
   {
@@ -29,7 +29,7 @@
     "rating": 4.5,
     "stock": 15,
     "description": "Comfortable and breathable cotton Hawaiian shirt with vibrant tropical prints. Perfect for beach parties.",
-    "image": "https://images.unsplash.com/photo-1618517351616-38fb9c52e0c6?auto=format&fit=crop&w=600&q=80",
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=600&q=80",
     "category": "Outfits"
   },
   {
@@ -40,7 +40,7 @@
     "rating": 4.6,
     "stock": 20,
     "description": "Classic wide brim straw hat to keep you cool and stylish under the sun.",
-    "image": "https://images.unsplash.com/photo-1533827432537-70133748f5c8?auto=format&fit=crop&q=80&w=600",
+    "image": "https://images.unsplash.com/photo-1572451479139-6a308211d8be?auto=format&fit=crop&q=80&w=600",
     "category": "Accessories"
   },
   {
@@ -51,7 +51,7 @@
     "rating": 4.8,
     "stock": 30,
     "description": "Ultra-absorbent and quick-drying microfiber beach towel with a beautiful sunset design.",
-    "image": "https://images.unsplash.com/photo-1537151625747-768eb6cfacbc?auto=format&fit=crop&q=80&w=600",
+    "image": "https://images.unsplash.com/photo-1500485035595-cbe6f645feb1?auto=format&fit=crop&q=80&w=600",
     "category": "Beach Accessories"
   },
   {
@@ -62,7 +62,7 @@
     "rating": 4.4,
     "stock": 50,
     "description": "Cooling facial mist with cucumber and rose water. Instantly refreshes your skin on hot days.",
-    "image": "https://images.unsplash.com/photo-1580870059868-fb9e2e6c4e51?auto=format&fit=crop&q=80&w=600",
+    "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?auto=format&fit=crop&q=80&w=600",
     "category": "Skincare"
   }
 ]
