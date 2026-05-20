@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 25,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Stylish UV protection sunglasses perfect for summer outings. Polarized lenses to protect your eyes from harsh sunlight.",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&q=80&w=600",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "Aloe Vera Sunscreen SPF 50",
+    "brand": "GlowSkin",
+    "price": 18,
+    "rating": 4.9,
+    "stock": 25,
+    "description": "Lightweight, non-greasy sunscreen with soothing aloe vera. Provides broad-spectrum SPF 50 protection.",
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&q=80&w=600",
+    "category": "Skincare"
+  },
+  {
+    "id": 3,
+    "name": "Tropical Hawaiian Shirt",
+    "brand": "Islander",
+    "price": 35,
+    "rating": 4.5,
+    "stock": 15,
+    "description": "Comfortable and breathable cotton Hawaiian shirt with vibrant tropical prints. Perfect for beach parties.",
+    "image": "https://images.unsplash.com/photo-1618517351616-38fb9c52e0c6?auto=format&fit=crop&w=600&q=80",
+    "category": "Outfits"
+  },
+  {
+    "id": 4,
+    "name": "Wide Brim Straw Hat",
+    "brand": "BeachBum",
+    "price": 22,
+    "rating": 4.6,
+    "stock": 20,
+    "description": "Classic wide brim straw hat to keep you cool and stylish under the sun.",
+    "image": "https://images.unsplash.com/photo-1533827432537-70133748f5c8?auto=format&fit=crop&q=80&w=600",
+    "category": "Accessories"
+  },
+  {
+    "id": 5,
+    "name": "Microfiber Beach Towel",
+    "brand": "OceanVibes",
+    "price": 15,
+    "rating": 4.8,
+    "stock": 30,
+    "description": "Ultra-absorbent and quick-drying microfiber beach towel with a beautiful sunset design.",
+    "image": "https://images.unsplash.com/photo-1537151625747-768eb6cfacbc?auto=format&fit=crop&q=80&w=600",
+    "category": "Beach Accessories"
+  },
+  {
+    "id": 6,
+    "name": "Hydrating Facial Mist",
+    "brand": "AquaFresh",
+    "price": 12,
+    "rating": 4.4,
+    "stock": 50,
+    "description": "Cooling facial mist with cucumber and rose water. Instantly refreshes your skin on hot days.",
+    "image": "https://images.unsplash.com/photo-1580870059868-fb9e2e6c4e51?auto=format&fit=crop&q=80&w=600",
+    "category": "Skincare"
+  }
+]
