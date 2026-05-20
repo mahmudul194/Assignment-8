@@ -54,6 +54,7 @@ export default async function ProductDetails({ params }) {
             </div>
           </div>
           
+          
           <h1 className="text-4xl md:text-5xl font-black text-slate-900 mb-6 leading-tight tracking-tight">{product.name}</h1>
           
           <div className="flex items-center gap-6 mb-8 pb-8 border-b border-slate-100">
